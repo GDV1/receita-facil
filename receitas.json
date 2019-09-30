@@ -1,0 +1,94 @@
+{
+    "receitas": [
+        {
+            "id": 1,
+            "titulo": "Pão de Queijo",
+            "descricao": "Receita de Pão de Queijo sem queijo.",
+            "tipo_restricao": "lactose",
+            "tempo_preparo": 120,
+            "porcoes": 15,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [
+                {"url": "/src/assets/pao_de_queijo.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Brigadeiro",
+            "descricao": "Brigadeiro sem glúten, leite, ovo e soja",
+            "tipo_restricao": "lactose, ovo, soja, glúten",
+            "tempo_preparo": 45,
+            "porcoes": 25,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [
+                {"url": "/src/assets/brigadeiro.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Bolo vegano de Limão",
+            "descricao": "Bolo sem ovo, farinha, leite e soja",
+            "tipo_restricao": "ovo, lactose, soja, glúten",
+            "tempo_preparo": 25,
+            "porcoes": 10,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [   
+                {"url": "/src/assets/bolo_vegano_limao.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Bolo de Cenoura com Chocolate",
+            "descricao": "Bolo de Cenoura sem lactose, sem soja e ovo",
+            "tipo_restricao": "lactose, soja, ovo, glúten",
+            "tempo_preparo": 80,
+            "porcoes": 20,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [   
+                {"url": "/src/assets/bolo-de-cenoura-com-chocolate.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Bolo Base",
+            "descricao": "Bolo sem leite, ovos e sem trigo",
+            "tipo_restricao": "lactose, ovo, trigo",
+            "tempo_preparo": 10,
+            "porcoes": 9,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [
+                {"url": "/src/assets/bolo-base.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Torta de Frango",
+            "descricao": "Torta salgada com massa sem leite e sem amido",
+            "tipo_restricao": "lactose, milho",
+            "tempo_preparo": 50,
+            "porcoes": 12,
+            "ingredientes": "",
+            "modo_preparo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque vitae urna suscipit elementum. Nunc convallis lectus a velit blandit, id malesuada nisl tempus.",
+            "imagens": [
+                {"url": "/src/assets/torta-de-frango.jpg"},
+                {"url": ""},
+                {"url": ""}                
+            ]
+        }
+    ]
+}
